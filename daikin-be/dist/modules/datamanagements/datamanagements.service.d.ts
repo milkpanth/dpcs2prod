@@ -1,0 +1,40 @@
+/// <reference types="node" />
+import { Stream } from "stream";
+import { DataSource, Repository } from "typeorm";
+import { GraphUserDto } from "../../shared/msgraph/dto/graph-user.dto";
+import { Category } from "../categories/entities/category.entity";
+import { Company } from "../companies/entities/company.entity";
+import { Image } from "../images/entities/image.entity";
+import { Model } from "../models/entities/model.entity";
+import { Section } from "../sections/entities/section.entity";
+import { SectionsRepository } from "../sections/sections.repository";
+import { Series } from "../series/entities/series.entity";
+import { SlideFile } from "../slidefiles/entities/slidefile.entity";
+import { SlideFileArchive } from "../slidefiles/entities/slidefiles_archive.entity";
+import { Slide } from "../slides/entities/slide.entity";
+import { SlideTag } from "../slidetags/entities/slidetag.entity";
+import { Tag } from "../tags/entities/tag.entity";
+import { ListReleaseToLiveDto, ListReleaseToLiveResponseDto } from "./dto";
+export declare class DataManagementsService {
+    private readonly useCompanyRepository;
+    private readonly useSeriesRepository;
+    private readonly useModelsRepository;
+    private readonly useCategorysRepository;
+    private readonly useSectionsRepository;
+    private readonly useSlidesRepository;
+    private readonly useSlideFilesRepository;
+    private readonly useSlideFilesArchiveRepository;
+    private readonly useSlideTagRepository;
+    private readonly useTagsRepository;
+    private readonly useImagesRepository;
+    private liveDataSource;
+    private useDataSource;
+    private readonly sectionRepo;
+    private readonly logger;
+    constructor(useCompanyRepository: Repository<Company>, useSeriesRepository: Repository<Series>, useModelsRepository: Repository<Model>, useCategorysRepository: Repository<Category>, useSectionsRepository: Repository<Section>, useSlidesRepository: Repository<Slide>, useSlideFilesRepository: Repository<SlideFile>, useSlideFilesArchiveRepository: Repository<SlideFileArchive>, useSlideTagRepository: Repository<SlideTag>, useTagsRepository: Repository<Tag>, useImagesRepository: Repository<Image>, liveDataSource: DataSource, useDataSource: DataSource, sectionRepo: SectionsRepository);
+    listRelease(queryPayload: ListReleaseToLiveDto): Promise<ListReleaseToLiveResponseDto>;
+    doRelease(user: GraphUserDto, queryPayload: ListReleaseToLiveDto): Promise<void>;
+    doScheduleRelease(user: GraphUserDto, queryPayload: ListReleaseToLiveDto): Promise<void>;
+    getAllUseState(queryPayload?: ListReleaseToLiveDto): Promise<ListReleaseToLiveResponseDto>;
+    exportExcelList(res: Stream, queryPayload: ListReleaseToLiveDto): Promise<void>;
+}

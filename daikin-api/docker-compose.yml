@@ -1,0 +1,14 @@
+version: "3"
+services:
+  #AsposeSlidesCloud:
+  #  image: aspose/slides-cloud
+  #  ports: ["127.0.0.1:8088:80"]
+  #  volumes: [
+  #    ".:/storage",
+  #  ]
+  dkpptxmerger:
+    image: dkpptxmerger:latest
+    ports:
+      - "127.0.0.1:5005:80"
+    volumes:
+      - "./temps:/app/files"

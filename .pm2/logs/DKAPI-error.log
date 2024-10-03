@@ -1,0 +1,689 @@
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}
+Error: listen EACCES: permission denied 0.0.0.0:443
+    at Server.setupListenHandle [as _listen2] (node:net:1468:21)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (/home/dpcsdev/daikin-api/node_modules/express/lib/application.js:635:24)
+    at /home/dpcsdev/daikin-api/index.js:34:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 443
+}

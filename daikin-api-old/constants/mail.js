@@ -1,0 +1,4 @@
+module.exports = {
+    "SENDGRID_NEW_USER_TEMPLATE": "d-f25da231f4ff4ce49bbbdd3004ddc741",
+    "SENDGRID_EXPIRE_USER_TEMPLATE": "d-70d0680fd5af4534856123df7424ed72"
+}

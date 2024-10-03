@@ -1,0 +1,795 @@
+[
+  {
+    "name": "Master Admin",
+    "menu": [
+      {
+        "name": "Model Master",
+        "read": true,
+        "iu": true,
+        "delete": true,
+        "active": true
+      },
+      {
+        "name": "Series Master",
+        "read": true,
+        "iu": true,
+        "delete": true,
+        "active": true
+      },
+      {
+        "name": "Slides Master",
+        "read": true,
+        "iu": false,
+        "delete": false,
+        "active": true
+      },
+      {
+        "name": "Generic Slides",
+        "read": true,
+        "iu": false,
+        "delete": false,
+        "active": true
+      },
+      {
+        "name": "Company Profile",
+        "read": true,
+        "iu": true,
+        "delete": true,
+        "active": true
+      },
+      {
+        "name": "Create Proposal",
+        "read": true,
+        "iu": false,
+        "delete": false,
+        "active": true
+      },
+      {
+        "name": "External User Manage",
+        "read": false,
+        "iu": false,
+        "delete": false,
+        "active": false
+      },
+      {
+        "name": "Internal User Manage",
+        "read": false,
+        "iu": false,
+        "delete": false,
+        "active": false
+      },
+      {
+        "name": "Role Assignment",
+        "read": false,
+        "iu": false,
+        "delete": false,
+        "active": false
+      },
+      {
+        "name": "Proposal Creation Summary Report",
+        "read": true,
+        "iu": false,
+        "delete": false,
+        "active": true
+      },
+      {
+        "name": "Access Log",
+        "read": true,
+        "iu": false,
+        "delete": false,
+        "active": true
+      }
+    ]
+  },{
+    "name": "Role Admin",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Create Proposal",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    }]
+  },{
+    "name": "User Admin",
+    "menu": [{
+      "name": "Model Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Series Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Slides Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Generic Slides",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Company Profile",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    }]
+  },{
+    "name": "Slides Admin",
+    "menu": [{
+      "name": "Model Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Series Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Slides Master",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Generic Slides",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Company Profile",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Internal User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    }]
+  },{
+    "name": "System Admin",
+    "menu": [{
+      "name": "Model Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Series Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Slides Master",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Generic Slides",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Company Profile",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Access Log",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    }]
+  },{
+    "name": "Sale Rep Manager",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "Access Log",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    }]
+  },{
+    "name": "Sale Rep",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    }]
+  },{
+    "name": "External User",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Internal User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    }]
+  },{
+    "name": "Sale Rep",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Create Proposal",
+      "read": true,
+      "iu": true,
+      "delete": true,
+      "active": true
+    },
+    {
+      "name": "External User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Internal User Manage",
+      "read": true,
+      "iu": false,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    }]
+  },{
+    "name": "Local Slides Admin",
+    "menu": [{
+      "name": "Model Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Series Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Slides Master",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Generic Slides",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Company Profile",
+      "read": true,
+      "iu": true,
+      "delete": false,
+      "active": true
+    },
+    {
+      "name": "Create Proposal",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "External User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Internal User Manage",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Role Assignment",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Proposal Creation Summary Report",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    },
+    {
+      "name": "Access Log",
+      "read": false,
+      "iu": false,
+      "delete": false,
+      "active": false
+    }]
+  }
+]

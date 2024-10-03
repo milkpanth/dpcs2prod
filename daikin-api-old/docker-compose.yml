@@ -1,0 +1,13 @@
+version: "3"
+services:
+  AsposeSlidesCloud:
+    image: aspose/slides-cloud
+    ports: ["127.0.0.1:8088:80"]
+    #volumes: [
+    #  "./storage:/storage",
+    #]
+    environment:
+      #"ClientId": "User"
+      #"ClientSecret": "Password"
+      "LicensePublicKey": "asposeforcloud1d6f1564c1234293b6180572dd66e459"
+      "LicensePrivateKey": "kbDLwUbvm3df6DH4PziCqJH6bRQoM-PkOjVtHTUfe6eHRN*QMh9tmKg2qn*gQMTtyzZpFrS-rb63nt9JinD2rlFkOUXaakQm4O12S6QLQ-QWNJ8CV1WIUCysI5HNiyljUQAUdJxUCTB5goeVokvRdNNZ1RsO3Iff*rjKMhlOibM_"

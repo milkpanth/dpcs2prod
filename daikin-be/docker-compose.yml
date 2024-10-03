@@ -1,0 +1,29 @@
+version: '3'
+services:
+  AsposeSlidesCloud:
+    image: aspose/slides-cloud
+    deploy:
+      replicas: 5
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: 20G 
+        reservations:
+          cpus: "0.25"
+          memory: 5G
+    ports: ["127.0.0.1:8088:80"]
+    volumes: [".:/storage"]
+    restart: always
+    environment:
+      #  "ClientId": "User"
+      #  "ClientSecret": "Password"
+      - LicensePublicKey=asposeforcloud1d6f1564c1234293b6180572dd66e459
+      - LicensePrivateKey=kbDLwUbvm3df6DH4PziCqJH6bRQoM-PkOjVtHTUfe6eHRN*QMh9tmKg2qn*gQMTtyzZpFrS-rb63nt9JinD2rlFkOUXaakQm4O12S6QLQ-QWNJ8CV1WIUCysI5HNiyljUQAUdJxUCTB5goeVokvRdNNZ1RsO3Iff*rjKMhlOibM_
+      # Garbage collection
+      - ASPNETCORE_GC_COLLECT=2
+      - ASPNETCORE_GC_COMPACT=1
+      - DOTNET_GC_SERVER=1
+      - DOTNET_GC_CONCURRENT=1
+      - DOTNET_GC_HEAPCOUNT=2
+      - DOTNET_GC_HEAPLIMIT=0
+      - DOTNET_GC_LOWMEMORY=1
